@@ -27,7 +27,6 @@
 <br />
 <br />
 
----
 
 [twitter]: https://twitter.com/XeTENcO
 [instagram]: https://instagram.com/nathaniel.chang
