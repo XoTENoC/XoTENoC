@@ -29,7 +29,5 @@
 
 ---
 
-<img align="left" alt="XoTENoC's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=XoTENoC&show_icons=true&hide_border=true" />
-
 [twitter]: https://twitter.com/XeTENcO
 [instagram]: https://instagram.com/nathaniel.chang
