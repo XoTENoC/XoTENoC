@@ -2,8 +2,8 @@
 
 ## I'm a Developer, Photographer and Tinkerer!
 - 🔭 I’m currently working on a Automation.
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Redwood JS, c++, ans node JS.
+- 🥅 2022 Goals: Become a better web developer, Push my lighting design to another level, and improve my sound skills.
 
 ### Connect with me:
 
@@ -28,5 +28,5 @@
 <br />
 
 
-[twitter]: https://twitter.com/XeTENcO
+[twitter]: https://twitter.com/XoTENoC
 [instagram]: https://instagram.com/nathaniel.chang
