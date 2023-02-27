@@ -10,3 +10,4 @@
     - showing the calendar
     - showing upcomming uni assignments
     - showing the weather
+- [ ] uni timetable web scrapper
