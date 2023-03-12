@@ -11,3 +11,8 @@
     - showing upcomming uni assignments
     - showing the weather
 - [ ] uni timetable web scrapper
+
+
+
+# Showfile Ideas
+- [ ] use different speed masters for sprogrammed songs so that they can be changed for the programijg then the looks can be used for different use cases
