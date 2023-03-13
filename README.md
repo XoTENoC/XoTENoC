@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Automation.
 - 🌱 I’m currently learning Redwood JS, c++, and always learning more about node JS.
 - 🥅 2023 Goals: Become a better web developer, Push my lighting design to another level, and improve my sound skills.
-- 💡 Build plugin for Grandma3
+- 💡 Building plugins for Grandma3
 
 ### Connect with me:
 
