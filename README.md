@@ -1,9 +1,10 @@
 ### Hi there, I'm Nathaniel - aka XoTENoC 👋
 
-## I'm a Developer, Photographer and Tinkerer!
+## I'm a Developer, Photographer and Lighting Designer!
 - 🔭 I’m currently working on a Automation.
-- 🌱 I’m currently learning Redwood JS, c++, ans node JS.
-- 🥅 2022 Goals: Become a better web developer, Push my lighting design to another level, and improve my sound skills.
+- 🌱 I’m currently learning Redwood JS, c++, and always learning more about node JS.
+- 🥅 2023 Goals: Become a better web developer, Push my lighting design to another level, and improve my sound skills.
+- 💡 Build plugin for Grandma3
 
 ### Connect with me:
 
