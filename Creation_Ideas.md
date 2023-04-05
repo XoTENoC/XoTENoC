@@ -11,6 +11,7 @@
     - showing upcomming uni assignments
     - showing the weather
 - [ ] uni timetable web scrapper
+- [ ] programing to make a graph of all the files are connected together in a repo
 
 
 
