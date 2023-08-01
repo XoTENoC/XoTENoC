@@ -6,6 +6,8 @@
 - 🥅 2023 Goals: Become a better web developer, Push my lighting design to another level, and improve my sound skills.
 - 💡 Building plugins for Grandma3
 
+Write to me at [hello@iamchang.com](mailto:hello@iamchang.com).
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
