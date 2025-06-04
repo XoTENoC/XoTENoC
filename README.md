@@ -1,33 +1,47 @@
-### Hi there, I'm Nathaniel - aka XoTENoC 👋
+# Hi there, I'm Nathaniel! 👋
 
-## I'm a Developer, Photographer and Lighting Designer! ye ye
-- 🔭 I’m currently working on a Automation.
-- 💡 Building plugins for Grandma3
+**Developer • Photographer • Lighting Designer**
 
-Write to me at [hello@iamchang.com](mailto:hello@iamchang.com).
+Welcome to my GitHub profile! I'm passionate about creating innovative solutions that bridge technology and creativity, specializing in automation systems and lighting control.
 
-### Connect with me:
+## 🚀 What I'm Working On
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🔭 **Automation Projects**: Building intelligent systems to streamline workflows
+- 💡 **Grandma3 Plugins**: Developing custom plugins for professional lighting control
+- 📸 **Creative Technology**: Exploring the intersection of code, photography, and visual arts
 
-<br />
+## 🎯 Current Focus
 
-### Languages and Tools:
+I'm currently deep into developing automation solutions that enhance live event production and lighting design workflows. My work combines technical precision with creative vision to create tools that empower other artists and technicians.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## 📈 GitHub Stats
 
-<br />
-<br />
+![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=XoTENoC&show_icons=true&theme=dark&hide_border=true)
 
+## 🎨 Featured Projects
 
-[twitter]: https://twitter.com/XoTENoC
-[instagram]: https://instagram.com/nathaniel.chang
+### 🔧 Automation Suite
+Building comprehensive automation tools for live events and installations.
+
+### 💡 GrandMA3 Plugin Collection
+Custom plugins extending the functionality of professional lighting consoles.
+
+### 📱 Creative Utilities
+Web-based tools for photographers and lighting designers.
+
+## 🌟 Interests
+
+- **Live Event Technology**: Pushing the boundaries of what's possible in live entertainment
+- **Creative Coding**: Using code as a medium for artistic expression
+- **Photography**: Capturing moments and exploring visual storytelling
+- **Lighting Design**: Creating immersive environments through strategic illumination
+
+## 📫 Let's Connect!
+
+- **Email**: [nathaniel@nuggslab.com](mailto:nathaniel@nuggslab.com)
+
+---
+
+*"Where technology meets creativity, innovation happens."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=XoTENoC&color=blue&style=flat-square)
