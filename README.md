@@ -14,21 +14,6 @@ Welcome to my GitHub profile! I'm passionate about creating innovative solutions
 
 I'm currently deep into developing automation solutions that enhance live event production and lighting design workflows. My work combines technical precision with creative vision to create tools that empower other artists and technicians.
 
-## 📈 GitHub Stats
-
-![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=XoTENoC&show_icons=true&theme=dark&hide_border=true)
-
-## 🎨 Featured Projects
-
-### 🔧 Automation Suite
-Building comprehensive automation tools for live events and installations.
-
-### 💡 GrandMA3 Plugin Collection
-Custom plugins extending the functionality of professional lighting consoles.
-
-### 📱 Creative Utilities
-Web-based tools for photographers and lighting designers.
-
 ## 🌟 Interests
 
 - **Live Event Technology**: Pushing the boundaries of what's possible in live entertainment
@@ -43,5 +28,3 @@ Web-based tools for photographers and lighting designers.
 ---
 
 *"Where technology meets creativity, innovation happens."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=XoTENoC&color=blue&style=flat-square)
